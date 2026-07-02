@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPatternExample", "SingletonPatternExample\SingletonPatternExample.csproj", "{BF06F960-4904-4CD1-96A7-C5679C80CDD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPatternExample", "FactoryMethodPatternExample\FactoryMethodPatternExample.csproj", "{46D31713-D567-481F-89EB-27E54082F55C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{BF06F960-4904-4CD1-96A7-C5679C80CDD7}.Release|x64.Build.0 = Release|Any CPU
 		{BF06F960-4904-4CD1-96A7-C5679C80CDD7}.Release|x86.ActiveCfg = Release|Any CPU
 		{BF06F960-4904-4CD1-96A7-C5679C80CDD7}.Release|x86.Build.0 = Release|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Debug|x64.Build.0 = Debug|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Debug|x86.Build.0 = Debug|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Release|x64.ActiveCfg = Release|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Release|x64.Build.0 = Release|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Release|x86.ActiveCfg = Release|Any CPU
+		{46D31713-D567-481F-89EB-27E54082F55C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
