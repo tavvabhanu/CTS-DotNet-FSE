@@ -1,0 +1,32 @@
+# Visual Studio / .NET
+[Bb]in/
+[Ob]j/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Java / Maven / Eclipse / IntelliJ
+*.class
+*.jar
+*.war
+*.ear
+.project
+.classpath
+.settings/
+target/
+.idea/
+*.iml
+*.iws
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+.npm/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.log
