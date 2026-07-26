@@ -1,0 +1,21 @@
+.container {
+  margin: 30px;
+}
+
+button {
+  margin-top: 5px;
+}
+
+.title {
+  color: green;
+  margin-top: 40px;
+}
+
+label {
+  display: inline-block;
+  width: 80px;
+}
+
+input {
+  margin-left: 10px;
+}
